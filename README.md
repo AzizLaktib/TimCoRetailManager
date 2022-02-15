@@ -2,7 +2,7 @@
 Retail Manager System developed by Me(Aziz) during a WPF Training with the genius Tim Corey
 
 # Checklist
-Intoduction ✔ \n
+1- Intoduction ✔
 Setting Up a GitHub Repository ✔ \n
 Creating a WebAPI with Authentication ✔
 Configuring Swagger in WebAPI ✔
