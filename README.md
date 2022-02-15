@@ -3,7 +3,7 @@ Retail Manager System developed by Me(Aziz) during a WPF Training with the geniu
 
 # Checklist
 1- Intoduction ✔
-Setting Up a GitHub Repository ✔ \n
+Setting Up a GitHub Repository ✔
 Creating a WebAPI with Authentication ✔
 Configuring Swagger in WebAPI ✔
 SQL Database Project ✔
